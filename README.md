@@ -4,7 +4,7 @@ Este proyecto es una aplicación web sencilla que consume datos dinámicos de un
 
 ##  Enlace a la Demo
 Puedes probar la aplicación funcionando aquí:
-[https://github.com/Miguel-307/API-JS.git]
+[https://miguel-307.github.io/API-JS/]
 
 ---
 
