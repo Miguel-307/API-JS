@@ -58,5 +58,5 @@ Durante el desarrollo encontré los siguientes desafíos:
 
 ---
 
-## 👤 Autor
+##  Autor
 Miguel Millán Luque
